@@ -5,10 +5,12 @@
     height: max-content;
 }
 .checkout__ad{
+    display: flex;
     width: 100%;
     margin-bottom: 10px;
 }
 .checkout__title {
+    display: flex;
     margin-right: 10px;
     padding: 10px;
     border-bottom: 1px solid lightgray;
